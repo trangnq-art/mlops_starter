@@ -1,4 +1,4 @@
-# Buổi 06 — CI/CD, Quality Gate và Continuous Training
+# Buổi 10 — CI/CD, Quality Gate và Continuous Training
 
 > **Dataset:** [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 > File raw: `data/raw/kc_house_data.csv`. Mapping cột trong `src/ingestion/ingest.py`.
